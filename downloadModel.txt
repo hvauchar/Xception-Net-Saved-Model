@@ -1,2 +1,3 @@
 download trained Model from this link 
 https://transfer.sh/mjgdd/50epochs.model
+and save in the same folder as that of iPython Notebook with name '50epochs_XceptionNet.model'
