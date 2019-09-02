@@ -1,0 +1,2 @@
+download trained Model from this link 
+https://transfer.sh/mjgdd/50epochs.model
