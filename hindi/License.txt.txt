@@ -1,0 +1,4 @@
+Terms and Conditions
+Data may not be copied, reproduced, republished, downloaded, posted, broadcast or transmitted in any way except for AI-Hackathon 2019. Any other use requires the prior written permission of C-DAC AAIG Pune. You agree not to adapt, alter or create a derivative work from data or use it for any other commercial/personal purpose. You agree to use this data for development of solution under AI Hackathon 2019.
+If these Terms and Conditions are not accepted in full, you do not have permission to access the data and therefore should cease using this data immediately.
+
